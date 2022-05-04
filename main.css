@@ -123,11 +123,37 @@
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
+  .boton {
+    border: 1px solid #2e518b; 
+    padding: 5px; 
+    background-color: #2e518b; 
+    color: #ffffff;
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    }
+
+    div.w-33 {
+        width: 100%;
+      }
+      
+      div.center {
+        text-align: center;
+      }
+
   .opciones img{
     display: block;
     margin: auto;
     height: 100px;
     width: 100px;
+    border-radius: 10px;
+  }
+  .imagenespecial{
+    display: block;
+    margin: auto;
+    height: 200px;
+    width: 200px;
     border-radius: 10px;
   }
   .footer{
