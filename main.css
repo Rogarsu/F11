@@ -117,7 +117,7 @@
   }
   
   .opciones img{
-    width: 300px;
+    width: 30px;
   }
   .opciones p{
     text-align: center;
@@ -126,8 +126,8 @@
   .opciones img{
     display: block;
     margin: auto;
-    height: 300px;
-    width: 300px;
+    height: 100px;
+    width: 100px;
     border-radius: 10px;
   }
   .footer{
